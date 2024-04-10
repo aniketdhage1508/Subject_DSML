@@ -1,8 +1,8 @@
-# Welcome to the Machine Learning Repository!
+# Welcome to the Data Science & Machine Learning Repository!
 
 ## About
 
-Welcome to our Machine Learning Repository, your gateway to the captivating world of artificial intelligence, data science, and predictive analytics. Dive deep into the realms of machine learning with our curated collection of cutting-edge projects, insightful lab assignments, and captivating mini-projects.
+Welcome to our Data Science & Machine Learning Repository, your gateway to the captivating world of artificial intelligence, data science, and predictive analytics. Dive deep into the realms of data science & machine learning with our curated collection of cutting-edge projects, insightful lab assignments, and captivating mini-projects.
 
 ## What's Inside?
 
@@ -45,12 +45,12 @@ This repository is not licensed yet.
 
 Stay updated on the latest developments, projects, and events by connecting with us:
 
-- [Twitter]
+- [[Instagram](https://instagram.com/aniket_d15?igshid=MTdpMDV1aDN1NWJ0dg==)]
 - [[LinkedIn](https://www.linkedin.com/in/aniket-dhage-aa085525a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-- [Email]
-- ...
+- [[Email](aniketdhage1508@gmail.com)]
+- [[Twitter](https://x.com/Aniket_S_Dhage?t=REBzqS9XUXv8nACKlddi_Q&s=09)]
 
-## Support Us
+## Feedback Us
 
 If you find our repository valuable, consider supporting us in the following ways:
 
@@ -59,4 +59,4 @@ If you find our repository valuable, consider supporting us in the following way
 - Contribute to the repository by submitting pull requests and enhancements.
 - Provide feedback and suggestions to help us improve.
 
-Together, let's unlock the full potential of machine learning and shape a brighter future powered by AI.
+Together, let's unlock the full potential of data science and machine learning and shape a brighter future powered by AI.
